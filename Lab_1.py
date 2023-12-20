@@ -22,16 +22,3 @@ def e(n):
 def sum(x,y):
     '''Returns the sum of x & y'''
     return (x+y)
-
-#brain dump #1
-#ok so first you are given a number x
-#multiply the number by 1/n
-#return inverse 
-
-
-#brain dump #2
-#basically youre given a number n
-#need make a list from range 1, n+1
-#and then apply a function to that list that does the factorial of the inverse
-#and add all those numbers
-#return the sum
